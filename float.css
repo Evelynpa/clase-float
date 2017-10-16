@@ -1,0 +1,27 @@
+.container{
+	background-color: red;
+	border:1px solid purple;
+	overflow: hidden;
+}
+li{
+	float: left;
+	height: 50px;
+	margin: 15px;
+}
+
+p{
+	
+}
+.img_1{
+	float: left;
+	margin: 0em 2em;
+	border:1px solid black;
+}
+.img_2{
+	float: right;
+	margin: 0em 2em;
+	border:1px solid black;
+}
+h1{
+	text-align: center;
+}
